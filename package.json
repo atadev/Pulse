@@ -1,7 +1,7 @@
 {
-    "name": "gulp_template",
+    "name": "Pulse",
     "version": "1.0.0",
-    "description": "gulp blank template",
+    "description": "Pulsometer site",
     "main": "gulpfile.js",
     "type": "module",
     "scripts": {
@@ -19,6 +19,7 @@
     "author": "Abazyan Tigran",
     "license": "ISC",
     "devDependencies": {
+        "bootstrap-reboot": "^4.5.6",
         "browser-sync": "^2.27.7",
         "del": "^6.0.0",
         "gulp": "^4.0.2",
